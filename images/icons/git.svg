@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 56 56" fill="none">
+  <rect width="56" height="56" rx="6" fill="#F05032"/>
+  <path d="M28 6L8.5 17.5v21L28 50l19.5-11.5v-21L28 6z" fill="#F05032"/>
+  <path d="M28 6v44M8.5 17.5l39 21M47.5 17.5l-39 21" stroke="#FFCDC7" stroke-width="1" opacity="0.3"/>
+  <text x="28" y="33" font-family="Arial Black, sans-serif" font-size="18" font-weight="900" fill="white" text-anchor="middle">git</text>
+</svg>
