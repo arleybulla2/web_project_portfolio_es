@@ -15,4 +15,4 @@ Portafolio personal responsivo de Arley Yesid Bulla, desarrollador web frontend.
 
 ## Enlace a GitHub Pages
 
-[Ver el portafolio en vivo](https://tu-usuario.github.io/web_project_potrfolio_es/)
+[Ver el portafolio en vivo](https://arleybulla2.github.io/web_project_potrfolio_es/)
